@@ -1,0 +1,710 @@
+[
+    {
+        "index": "Pizza",
+        "item_name": "Classic Margherita Personal",
+        "item_description": "Tomatoes, garlic, oregano.",
+        "item_price": "179"
+    },
+    {
+        "index": "Pizza",
+        "item_name": "Veggie Lovers Personal",
+        "item_description": "Capsicum, onions, mushrooms.",
+        "item_price": "199"
+    },
+    {
+        "index": "Pizza",
+        "item_name": "Classic Beef Personal",
+        "item_description": "With onion and green chilies",
+        "item_price": "269"
+    },
+    {
+        "index": "Pizza",
+        "item_name": "Ultimate Hot Chicken Personal",
+        "item_description": "Hot & Spicy Chicken, Onions, Green Chilies",
+        "item_price": "269"
+    },
+    {
+        "index": "Pizza",
+        "item_name": "Classic Chicken Sausage Personal",
+        "item_description": "Chicken Sausage, Onions, Green Chilies",
+        "item_price": "269"
+    },
+    {
+        "index": "Pizza",
+        "item_name": "Chicken Exotica Personal",
+        "item_description": "Chicken, onions, capsicum, jalapenos.",
+        "item_price": "329"
+    },
+    {
+        "index": "Pizza",
+        "item_name": "Spicy Beef. Personal",
+        "item_description": "Beef, onion, red paprika, jalapenos.",
+        "item_price": "329"
+    },
+    {
+        "index": "Pizza",
+        "item_name": "Spicy Chicken. Personal",
+        "item_description": "Lebanese chicken, mushroom, onion, green chilies.",
+        "item_price": "379"
+    },
+    {
+        "index": "Pizza",
+        "item_name": "Beef Lovers. Personal",
+        "item_description": "Beef, onions, black olives, capsicum.",
+        "item_price": "379"
+    },
+    {
+        "index": "Pizza",
+        "item_name": "Veggie Supreme Personal",
+        "item_description": "Capsicum, onions, mushrooms, tomatoes, sweet corn, black olives.",
+        "item_price": "329"
+    },
+    {
+        "index": "Pizza",
+        "item_name": "Double Cheese Personal",
+        "item_description": "Mounds of golden melting cheese on a rich bed of red tomato sauce.",
+        "item_price": "329"
+    },
+    {
+        "index": "Pizza",
+        "item_name": "Spicy Kala Bhuna Personal",
+        "item_description": "Spicy Kala Bhuna",
+        "item_price": "379"
+    },
+    {
+        "index": "Pizza",
+        "item_name": "BBQ Chicken Personal",
+        "item_description": "BBQ Chicken, Green Chillies, Sweet Corn",
+        "item_price": "379"
+    },
+    {
+        "index": "Pizza",
+        "item_name": "Smoky Grilled Buzz Personal",
+        "item_description": "Smoked Chicken, Mushroom, Onion and Red Paprika",
+        "item_price": "379"
+    },
+    {
+        "index": "Pizza",
+        "item_name": "Beef Pepperoni Personal",
+        "item_description": "Beef Pepperoni,",
+        "item_price": "379"
+    },
+    {
+        "index": "Pizza",
+        "item_name": "Red N Hot. Personal",
+        "item_description": "Spicy chicken, beef, onions, tomatoes, green chilies",
+        "item_price": "429"
+    },
+    {
+        "index": "Pizza",
+        "item_name": "Supreme. Personal",
+        "item_description": "Spicy chicken, chicken & beef topped with onions, mushrooms, capsicum.",
+        "item_price": "429"
+    },
+    {
+        "index": "Pizza",
+        "item_name": "Chicken Supreme. Personal",
+        "item_description": "Chicken Supreme.",
+        "item_price": "429"
+    },
+    {
+        "index": "Pizza",
+        "item_name": "Chicken Classic. Personal",
+        "item_description": "Spicy chicken, tomatoes, onions, capsicum, mushrooms, black olives.",
+        "item_price": "429"
+    },
+    {
+        "index": "Pizza",
+        "item_name": "Chicken Delight. Personal",
+        "item_description": "Lebanese chicken, chicken sausage, capsicum, tomatoes, jalapenos, black olives.",
+        "item_price": "429"
+    },
+    {
+        "index": "Pizza",
+        "item_name": "Bbq Temptation . Personal",
+        "item_description": "Spicy chicken marinated in BBQ sauce, onions, capsicum, tomatoes, green chilies.",
+        "item_price": "429"
+    },
+    {
+        "index": "Pizza",
+        "item_name": "Triple Chicken Feast Personal",
+        "item_description": "Smoked Chicken, Lebanese chicken, spicy chicken.",
+        "item_price": "479"
+    },
+    {
+        "index": "Pizza",
+        "item_name": "Bbq Blast Personal",
+        "item_description": "Spicy chicken marinated in BBQ sauce, chicken sausage, onions, mushrooms, jalapenos.",
+        "item_price": "479"
+    },
+    {
+        "index": "Pizza",
+        "item_name": "The Works Personal",
+        "item_description": "Beef, Beef Pepperoni, Spicy Chicken, Chicken, Capsicum, Onions, Mushrooms",
+        "item_price": "479"
+    },
+    {
+        "index": "Pizza",
+        "item_name": "Classic Margherita Medium",
+        "item_description": "Tomatoes, garlic, oregano.",
+        "item_price": "639"
+    },
+    {
+        "index": "Pizza",
+        "item_name": "Veggie Lovers Medium",
+        "item_description": "Capsicum, onions, mushrooms.",
+        "item_price": "709"
+    },
+    {
+        "index": "Pizza",
+        "item_name": "Classic Beef Medium",
+        "item_description": "With onion and green chilies",
+        "item_price": "809"
+    },
+    {
+        "index": "Pizza",
+        "item_name": "Ultimate Hot Chicken Medium",
+        "item_description": "Hot & Spicy Chicken, Onions, Green Chilies",
+        "item_price": "809"
+    },
+    {
+        "index": "Pizza",
+        "item_name": "Classic Chicken Sausage Medium",
+        "item_description": "Chicken Sausage, Onions, Green Chilies",
+        "item_price": "809"
+    },
+    {
+        "index": "Pizza",
+        "item_name": "Chicken Exotica Medium",
+        "item_description": "Chicken, onions, capsicum, jalapenos.",
+        "item_price": "1089"
+    },
+    {
+        "index": "Pizza",
+        "item_name": "Spicy Beef. Medium",
+        "item_description": "Beef, onion, red paprika, jalapenos.",
+        "item_price": "1089"
+    },
+    {
+        "index": "Pizza",
+        "item_name": "Spicy Chicken. Medium",
+        "item_description": "Lebanese chicken, mushroom, onion, green chilies.",
+        "item_price": "1239"
+    },
+    {
+        "index": "Pizza",
+        "item_name": "Beef Lovers. Medium",
+        "item_description": "Beef, onions, black olives, capsicum.",
+        "item_price": "1239"
+    },
+    {
+        "index": "Pizza",
+        "item_name": "Veggie Supreme Medium",
+        "item_description": "Capsicum, onions, mushrooms, tomatoes, sweet corn, black olives.",
+        "item_price": "1089"
+    },
+    {
+        "index": "Pizza",
+        "item_name": "Double Cheese Medium",
+        "item_description": "Mounds of golden melting cheese on a rich bed of red tomato sauce.",
+        "item_price": "1089"
+    },
+    {
+        "index": "Pizza",
+        "item_name": "Spicy Kala Bhuna Medium",
+        "item_description": "Spicy Kala Bhuna",
+        "item_price": "1239"
+    },
+    {
+        "index": "Pizza",
+        "item_name": "BBQ Chicken Medium",
+        "item_description": "BBQ Chicken, Green Chillies, Sweet Corn",
+        "item_price": "1239"
+    },
+    {
+        "index": "Pizza",
+        "item_name": "Smoky Grilled Buzz Medium",
+        "item_description": "Smoked Chicken, Mushroom, Onion and Red Paprika",
+        "item_price": "1239"
+    },
+    {
+        "index": "Pizza",
+        "item_name": "Beef Pepperoni Medium",
+        "item_description": "Beef Pepperoni,",
+        "item_price": "1239"
+    },
+    {
+        "index": "Pizza",
+        "item_name": "Red N Hot. Medium",
+        "item_description": "Spicy chicken, beef, onions, tomatoes, green chilies",
+        "item_price": "1359"
+    },
+    {
+        "index": "Pizza",
+        "item_name": "Supreme. Medium",
+        "item_description": "Spicy chicken, chicken & beef topped with onions, mushrooms, capsicum.",
+        "item_price": "1359"
+    },
+    {
+        "index": "Pizza",
+        "item_name": "Chicken Supreme. Medium",
+        "item_description": "Chicken Supreme.",
+        "item_price": "1359"
+    },
+    {
+        "index": "Pizza",
+        "item_name": "Chicken Classic. Medium",
+        "item_description": "Spicy chicken, tomatoes, onions, capsicum, mushrooms, black olives.",
+        "item_price": "1359"
+    },
+    {
+        "index": "Pizza",
+        "item_name": "Chicken Delight. Medium",
+        "item_description": "Lebanese chicken, chicken sausage, capsicum, tomatoes, jalapenos, black olives.",
+        "item_price": "1359"
+    },
+    {
+        "index": "Pizza",
+        "item_name": "Bbq Temptation . Medium",
+        "item_description": "Spicy chicken marinated in BBQ sauce, onions, capsicum, tomatoes, green chilies.",
+        "item_price": "1359"
+    },
+    {
+        "index": "Pizza",
+        "item_name": "Triple Chicken Feast Medium",
+        "item_description": "Smoked Chicken, Lebanese chicken, spicy chicken.",
+        "item_price": "1529"
+    },
+    {
+        "index": "Pizza",
+        "item_name": "Bbq Blast Medium",
+        "item_description": "Spicy chicken marinated in BBQ sauce, chicken sausage, onions, mushrooms, jalapenos.",
+        "item_price": "1529"
+    },
+    {
+        "index": "Pizza",
+        "item_name": "The Works Medium",
+        "item_description": "Beef, Beef Pepperoni, Spicy Chicken, Chicken, Capsicum, Onions, Mushrooms",
+        "item_price": "1529"
+    },
+    {
+        "index": "Pizza",
+        "item_name": "Classic Margherita Family",
+        "item_description": "Tomatoes, garlic, oregano.",
+        "item_price": "639"
+    },
+    {
+        "index": "Pizza",
+        "item_name": "Veggie Lovers Family",
+        "item_description": "Capsicum, onions, mushrooms.",
+        "item_price": "709"
+    },
+    {
+        "index": "Pizza",
+        "item_name": "Classic Beef Family",
+        "item_description": "With onion and green chilies",
+        "item_price": "809"
+    },
+    {
+        "index": "Pizza",
+        "item_name": "Ultimate Hot Chicken Family",
+        "item_description": "Hot & Spicy Chicken, Onions, Green Chilies",
+        "item_price": "809"
+    },
+    {
+        "index": "Pizza",
+        "item_name": "Classic Chicken Sausage Family",
+        "item_description": "Chicken Sausage, Onions, Green Chilies",
+        "item_price": "809"
+    },
+    {
+        "index": "Pizza",
+        "item_name": "Chicken Exotica Family",
+        "item_description": "Chicken, onions, capsicum, jalapenos.",
+        "item_price": "1089"
+    },
+    {
+        "index": "Pizza",
+        "item_name": "Spicy Beef. Family",
+        "item_description": "Beef, onion, red paprika, jalapenos.",
+        "item_price": "1089"
+    },
+    {
+        "index": "Pizza",
+        "item_name": "Spicy Chicken. Family",
+        "item_description": "Lebanese chicken, mushroom, onion, green chilies.",
+        "item_price": "1239"
+    },
+    {
+        "index": "Pizza",
+        "item_name": "Beef Lovers. Family",
+        "item_description": "Beef, onions, black olives, capsicum.",
+        "item_price": "1239"
+    },
+    {
+        "index": "Pizza",
+        "item_name": "Veggie Supreme Family",
+        "item_description": "Capsicum, onions, mushrooms, tomatoes, sweet corn, black olives.",
+        "item_price": "1089"
+    },
+    {
+        "index": "Pizza",
+        "item_name": "Double Cheese Family",
+        "item_description": "Mounds of golden melting cheese on a rich bed of red tomato sauce.",
+        "item_price": "1089"
+    },
+    {
+        "index": "Pizza",
+        "item_name": "Spicy Kala Bhuna Family",
+        "item_description": "Spicy Kala Bhuna",
+        "item_price": "1239"
+    },
+    {
+        "index": "Pizza",
+        "item_name": "BBQ Chicken Family",
+        "item_description": "BBQ Chicken, Green Chillies, Sweet Corn",
+        "item_price": "1239"
+    },
+    {
+        "index": "Pizza",
+        "item_name": "Smoky Grilled Buzz Family",
+        "item_description": "Smoked Chicken, Mushroom, Onion and Red Paprika",
+        "item_price": "1239"
+    },
+    {
+        "index": "Pizza",
+        "item_name": "Beef Pepperoni Family",
+        "item_description": "Beef Pepperoni,",
+        "item_price": "1239"
+    },
+    {
+        "index": "Pizza",
+        "item_name": "Red N Hot. Family",
+        "item_description": "Spicy chicken, beef, onions, tomatoes, green chilies",
+        "item_price": "1359"
+    },
+    {
+        "index": "Pizza",
+        "item_name": "Supreme. Family",
+        "item_description": "Spicy chicken, chicken & beef topped with onions, mushrooms, capsicum.",
+        "item_price": "1359"
+    },
+    {
+        "index": "Pizza",
+        "item_name": "Chicken Supreme. Family",
+        "item_description": "Chicken Supreme.",
+        "item_price": "1359"
+    },
+    {
+        "index": "Pizza",
+        "item_name": "Chicken Classic. Family",
+        "item_description": "Spicy chicken, tomatoes, onions, capsicum, mushrooms, black olives.",
+        "item_price": "1359"
+    },
+    {
+        "index": "Pizza",
+        "item_name": "Chicken Delight. Family",
+        "item_description": "Lebanese chicken, chicken sausage, capsicum, tomatoes, jalapenos, black olives.",
+        "item_price": "1359"
+    },
+    {
+        "index": "Pizza",
+        "item_name": "Bbq Temptation . Family",
+        "item_description": "Spicy chicken marinated in BBQ sauce, onions, capsicum, tomatoes, green chilies.",
+        "item_price": "1359"
+    },
+    {
+        "index": "Pizza",
+        "item_name": "Triple Chicken Feast Family",
+        "item_description": "Smoked Chicken, Lebanese chicken, spicy chicken.",
+        "item_price": "1529"
+    },
+    {
+        "index": "Pizza",
+        "item_name": "Bbq Blast Family",
+        "item_description": "Spicy chicken marinated in BBQ sauce, chicken sausage, onions, mushrooms, jalapenos.",
+        "item_price": "1529"
+    },
+    {
+        "index": "Pizza",
+        "item_name": "The Works Family",
+        "item_description": "Beef, Beef Pepperoni, Spicy Chicken, Chicken, Capsicum, Onions, Mushrooms",
+        "item_price": "1529"
+    },
+    {
+        "index": "Pizza",
+        "item_name": "Beef Lovers (C.B) Medium",
+        "item_description": "Beef, onions, black olives, capsicum.",
+        "item_price": "1049"
+    },
+    {
+        "index": "Pizza",
+        "item_name": "Spicy Chicken (C.B) Medium",
+        "item_description": "Lebanese chicken, mushroom, onion, green chilies.",
+        "item_price": "1049"
+    },
+    {
+        "index": "Pizza",
+        "item_name": "Chicken Delight (C.B) Medium",
+        "item_description": "Lebanese chicken, chicken sausage, capsicum, tomatoes, jalapenos, black olives.",
+        "item_price": "1149"
+    },
+    {
+        "index": "Pizza",
+        "item_name": "Red N Hot (C.B) Medium",
+        "item_description": "Spicy chicken, beef, onions, tomatoes, green chilies.",
+        "item_price": "1149"
+    },
+    {
+        "index": "Pizza",
+        "item_name": "Beef Lovers (C.B) Family",
+        "item_description": "Beef, onions, black olives, capsicum.",
+        "item_price": "1539"
+    },
+    {
+        "index": "Pizza",
+        "item_name": "Spicy Chicken (C.B) Family",
+        "item_description": "Lebanese chicken, mushroom, onion, green chilies.",
+        "item_price": "1539"
+    },
+    {
+        "index": "Pizza",
+        "item_name": "Chicken Delight (C.B) Family",
+        "item_description": "Lebanese chicken, chicken sausage, capsicum, tomatoes, jalapenos, black olives.",
+        "item_price": "1649"
+    },
+    {
+        "index": "Pizza",
+        "item_name": "Red N Hot (C.B) Family",
+        "item_description": "Spicy chicken, beef, onions, tomatoes, green chilies.",
+        "item_price": "1649"
+    },
+    {
+        "index": "Pizza",
+        "item_name": "Bbq Temptation (GS) Medium",
+        "item_description": "Spicy chicken marinated in BBQ sauce, onions, capsicum, tomatoes, green chilies.",
+        "item_price": "1479"
+    },
+    {
+        "index": "Pizza",
+        "item_name": "Red n Hot (GS) Medium",
+        "item_description": "Spicy chicken, beef, onions, tomatoes & green chilies.",
+        "item_price": "1479"
+    },
+    {
+        "index": "Pizza",
+        "item_name": "Chicken Classic (GS) Medium",
+        "item_description": "Spicy chicken, tomatoes, onions,capsicum, mushrooms, black olives",
+        "item_price": "1479"
+    },
+    {
+        "index": "Pizza",
+        "item_name": "Chicken Delight (GS) Medium",
+        "item_description": "Lebanese chicken, chicken sausage, capsicum, tomatoes, jalapenos, black olives.",
+        "item_price": "1479"
+    },
+    {
+        "index": "Pizza",
+        "item_name": "Beef Lovers (GS) Medium",
+        "item_description": "Beef, onions, black olives, capsicum.",
+        "item_price": "1369"
+    },
+    {
+        "index": "Pizza",
+        "item_name": "Spicy Chicken (GS) Medium",
+        "item_description": "Lebanese chicken, mushroom, onion, green chilies.",
+        "item_price": "1369"
+    },
+    {
+        "index": "Pizza",
+        "item_name": "Kala Bhuna Deluxe (GS) Medium",
+        "item_description": "Beef Kala Bhuna, Capsicum, Onions, Mushroom, Tomatoes.",
+        "item_price": "1479"
+    },
+    {
+        "index": "Pizza",
+        "item_name": "Supreme (GS) Medium",
+        "item_description": "Chicken, spicy chicken.",
+        "item_price": "1479"
+    },
+    {
+        "index": "Pizza",
+        "item_name": "The Wroks (GS) Medium",
+        "item_description": "Beef, Feef Pepperoni, Mushroom, Tomatos,",
+        "item_price": "1479"
+    },
+    {
+        "index": "Pizza",
+        "item_name": "Bbq Temptation (GS) Family",
+        "item_description": "Spicy chicken marinated in BBQ sauce, onions, capsicum, tomatoes, green chilies.",
+        "item_price": "1909"
+    },
+    {
+        "index": "Pizza",
+        "item_name": "Red n Hot (GS) Family",
+        "item_description": "Spicy chicken, beef, onions, tomatoes & green chilies.",
+        "item_price": "1909"
+    },
+    {
+        "index": "Pizza",
+        "item_name": "Chicken Classic (GS) Family",
+        "item_description": "Spicy chicken, tomatoes, onions,capsicum, mushrooms, black olives",
+        "item_price": "1909"
+    },
+    {
+        "index": "Pizza",
+        "item_name": "Chicken Delight (GS) Family",
+        "item_description": "Lebanese chicken, chicken sausage, capsicum, tomatoes, jalapenos, black olives.",
+        "item_price": "1909"
+    },
+    {
+        "index": "Pizza",
+        "item_name": "Beef Lovers (GS) Family",
+        "item_description": "Beef, onions, black olives, capsicum.",
+        "item_price": "1809"
+    },
+    {
+        "index": "Pizza",
+        "item_name": "Spicy Chicken (GS) Family",
+        "item_description": "Lebanese chicken, mushroom, onion, green chilies.",
+        "item_price": "1809"
+    },
+    {
+        "index": "Pizza",
+        "item_name": "Kala Bhuna Deluxe (GS) Family",
+        "item_description": "Beef Kala Bhuna, Capsicum, Onions, Mushroom, Tomatoes.",
+        "item_price": "1909"
+    },
+    {
+        "index": "Pizza",
+        "item_name": "Supreme (GS) Family",
+        "item_description": "Chicken, spicy chicken.",
+        "item_price": "1909"
+    },
+    {
+        "index": "Pizza",
+        "item_name": "The Wroks (GS) Family",
+        "item_description": "Beef, Feef Pepperoni, Mushroom, Tomatos,",
+        "item_price": "1909"
+    },
+    {
+        "index": "Pizza",
+        "item_name": "Bbq Temptation (Thin Crust) Medium",
+        "item_description": "Spicy chicken marinated in BBQ sauce, onions, capsicum, tomatoes & green chilies.",
+        "item_price": "819"
+    },
+    {
+        "index": "Pizza",
+        "item_name": "Red N Hot (Thin Crust) Medium",
+        "item_description": "Spicy chicken, beef, onions, tomatoes, green chilies.",
+        "item_price": "819"
+    },
+    {
+        "index": "Pizza",
+        "item_name": "Chicken Classic (Thin Crust) Medium",
+        "item_description": "Spicy chicken, tomatoes, onions, capsicum, mushrooms, black olives.",
+        "item_price": "819"
+    },
+    {
+        "index": "Pizza",
+        "item_name": "Bbq Temptation (Thin Crust) Family",
+        "item_description": "Spicy chicken marinated in BBQ sauce, onions, capsicum, tomatoes & green chilies.",
+        "item_price": "1359"
+    },
+    {
+        "index": "Pizza",
+        "item_name": "Red N Hot (Thin Crust) Family",
+        "item_description": "Spicy chicken, beef, onions, tomatoes, green chilies.",
+        "item_price": "1359"
+    },
+    {
+        "index": "Pizza",
+        "item_name": "Chicken Classic (Thin Crust) Family",
+        "item_description": "Spicy chicken, tomatoes, onions, capsicum, mushrooms, black olives.",
+        "item_price": "1359"
+    },
+    {
+        "index": "Pasta",
+        "item_name": "Baked-Chicken Arabiatta",
+        "item_description": "Pasta coated with arabiatta sauce,chicken chunk & baked to a cheesy consistency.",
+        "item_price": "489"
+    },
+    {
+        "index": "Pasta",
+        "item_name": "Baked-Chicken Mushroom",
+        "item_description": "Pasta coated with creamy chicken mushroom sauce & baked to a cheesy consistency.",
+        "item_price": "599"
+    },
+    {
+        "index": "Appetisers",
+        "item_name": "Garlic Bread Sticks",
+        "item_description": "Freshly made bread sticks, sprinkled with garlic seasoning & brushed with garlic butter.",
+        "item_price": "149"
+    },
+    {
+        "index": "Appetisers",
+        "item_name": "Garlic Bread",
+        "item_description": "In the Italian tradition-hot garlic butter, spread on four slices of crusty french bread.",
+        "item_price": "189"
+    },
+    {
+        "index": "Appetisers",
+        "item_name": "Baked Potato Wedges",
+        "item_description": "Crisp & savoury potato wedges served with dipping sauces.",
+        "item_price": "259"
+    },
+    {
+        "index": "Appetisers",
+        "item_name": "Spicy Garlic Mushrooms",
+        "item_description": "Button mushrooms lightly sauteed in a blend of herbs & spice garlic.",
+        "item_price": "489"
+    },
+    {
+        "index": "Appetisers",
+        "item_name": "Garlic Bread Spicy Supreme",
+        "item_description": "Topped with Cheese, Onion & Green Chilies.",
+        "item_price": "299"
+    },
+    {
+        "index": "Appetisers",
+        "item_name": "Cheesy Garlic Sticks",
+        "item_description": "Breadsticks with hot melting cheese on top.",
+        "item_price": "209"
+    },
+    {
+        "index": "Appetisers",
+        "item_name": "Garlic bread with cheese",
+        "item_description": "Hot Garlic Bread topped with Mozzarella Cheese.",
+        "item_price": "289"
+    },
+    {
+        "index": "Deals",
+        "item_name": "BOGO Everyday",
+        "item_description": "Buy 1 Family Pan Pizza, Get 1 absolutely free. Choose any 2 Pizza from selective lines",
+        "item_price": "999"
+    },
+    {
+        "index": "Deals",
+        "item_name": "Double Deal",
+        "item_description": "Double Deal , Double Fun! Buy 1 Family Pan Pizza & Get 50% off on Second Family Pan Pizza from any line EVERYDAY! Order Now!",
+        "item_price": "2799"
+    },
+    {
+        "index": "Drinks",
+        "item_name": "7 UP",
+        "item_description": "7UP (600ml)",
+        "item_price": "35"
+    },
+    {
+        "index": "Drinks",
+        "item_name": "Mountain Dew",
+        "item_description": "Mountain Dew (600 ml)",
+        "item_price": "32"
+    },
+    {
+        "index": "Drinks",
+        "item_name": "PEPSI",
+        "item_description": "PEPSI (600 ml)",
+        "item_price": "35"
+    }
+]

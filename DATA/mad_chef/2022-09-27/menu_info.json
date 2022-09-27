@@ -1,0 +1,260 @@
+[
+    {
+        "index": "Teasers",
+        "item_name": "Chicken Cheese Bombs",
+        "item_description": "Fried chicken balls stuffed with melted cheese.",
+        "item_price": "299"
+    },
+    {
+        "index": "Teasers",
+        "item_name": "Spicy Cajun Fries",
+        "item_description": "French fries sprinkled with cajun spice.",
+        "item_price": "159"
+    },
+    {
+        "index": "Teasers",
+        "item_name": "Fries - Salt & Pepper",
+        "item_description": "Classic french fries.",
+        "item_price": "139"
+    },
+    {
+        "index": "Teasers",
+        "item_name": "Onion Rings",
+        "item_description": "Deep fried onion rings with breadcrumbs",
+        "item_price": "149"
+    },
+    {
+        "index": "Teasers",
+        "item_name": "Spicy Garlic Mushrooms ",
+        "item_description": "Mushroom fried with garlic & mustard sauce.",
+        "item_price": "269"
+    },
+    {
+        "index": "Teasers",
+        "item_name": "Paneer Sticks",
+        "item_description": "Deshi cottage cheese sticks fried with breadcrumbs; served with deshi mint chutney.",
+        "item_price": "399"
+    },
+    {
+        "index": "Crispy Chicken",
+        "item_name": "Buffalo",
+        "item_description": "Chicken wings/ Bangkok style fried chicken dipped in hot sweet & sour pepper sauce.",
+        "item_price": "399"
+    },
+    {
+        "index": "Crispy Chicken",
+        "item_name": "Naga-Tastic ",
+        "item_description": "Chicken wings/ Bangkok style fried chicken dipped in spicy naga sauce.",
+        "item_price": "399"
+    },
+    {
+        "index": "Crispy Chicken",
+        "item_name": "Honey Garlic",
+        "item_description": "Chicken wings/ Bangkok style fried chicken dipped in honey garlic sauce.",
+        "item_price": "399"
+    },
+    {
+        "index": "Crispy Chicken",
+        "item_name": "Original",
+        "item_description": "Original chicken wings/ Bangkok style fried chicken.",
+        "item_price": "399"
+    },
+    {
+        "index": "Classic Burgers",
+        "item_name": "The BIG Rob",
+        "item_description": "Beef cheese burger topped with fried chicken sausages",
+        "item_price": "379"
+    },
+    {
+        "index": "Classic Burgers",
+        "item_name": "Mushroom Melt",
+        "item_description": "Beef cheese burger topped with mushroom & chicken gravy",
+        "item_price": "379"
+    },
+    {
+        "index": "Classic Burgers",
+        "item_name": "Madchef's FAV",
+        "item_description": "A mix of our two best house sauces: garlic mayo & naga Blast; topped with crispy pepperoni bits.",
+        "item_price": "379"
+    },
+    {
+        "index": "Classic Burgers",
+        "item_name": "Signature Chicken",
+        "item_description": "Classic chicken cheeseburger with a choice of signature madhouse sauce.",
+        "item_price": "269"
+    },
+    {
+        "index": "Classic Burgers",
+        "item_name": "Signature Beef",
+        "item_description": "Classic beef cheeseburger with a choice of signature madhouse sauce.",
+        "item_price": "299"
+    },
+    {
+        "index": "Gourmet Burgers",
+        "item_name": "The HAWK",
+        "item_description": "Double beef cheese burger topped with shredded crispy pepperoni & beef bacon.",
+        "item_price": "619"
+    },
+    {
+        "index": "Gourmet Burgers",
+        "item_name": "Smokin' Chic ",
+        "item_description": "Bbq chicken cheeseburger topped with smoked chicken layer & beef bacon.",
+        "item_price": "419"
+    },
+    {
+        "index": "Gourmet Burgers",
+        "item_name": "The Cuban",
+        "item_description": "Beef cheeseburger topped with smoked chicken & mustard sauce",
+        "item_price": "419"
+    },
+    {
+        "index": "Gourmet Burgers",
+        "item_name": "Madame Lucy",
+        "item_description": "Beef cheeseburger topped with chicken sausage gravy & beef bacon.",
+        "item_price": "449"
+    },
+    {
+        "index": "Gourmet Burgers",
+        "item_name": "Mighty Spicy Chic ",
+        "item_description": "Double bbq chicken cheeseburger topped with signature naga blast sauce & beef bacon.",
+        "item_price": "449"
+    },
+    {
+        "index": "Gourmet Burgers",
+        "item_name": "The Dhakaiyya",
+        "item_description": "Beef cheeseburger topped with fried paneer layer & green chili mint sauce.",
+        "item_price": "447"
+    },
+    {
+        "index": "Poutines",
+        "item_name": "Gyro Chicken over Cajun Fries ",
+        "item_description": "Cajun falvored potato fries topped with GYRO CHICKEN, Mint Yogurt & Spicy Sauce",
+        "item_price": "379"
+    },
+    {
+        "index": "Poutines",
+        "item_name": "Crispy Chicken & Bacon",
+        "item_description": "Potato fries topped with brown gravy, Katsu Chicken, beef Bacon & melted cheddar cheese.",
+        "item_price": "439"
+    },
+    {
+        "index": "Poutines",
+        "item_name": "Shah Poutine",
+        "item_description": "Potato fries topped with brown gravy, beef bacon, garlic mushroom, melted cheddar cheese and an egg",
+        "item_price": "379"
+    },
+    {
+        "index": "Poutines",
+        "item_name": "Roast Chicken",
+        "item_description": "Potato fries topped with brown gravy, shredded roast chicken & melted cheddar cheese",
+        "item_price": "329"
+    },
+    {
+        "index": "Rice Meals",
+        "item_name": "Gyro Chicken over Rice",
+        "item_description": "Choice of rice served with gyro chicken topped with mint yogurt sauce.",
+        "item_price": "399"
+    },
+    {
+        "index": "Rice Meals",
+        "item_name": "Spicy Basil Chicken ",
+        "item_description": "Choice of rice served with spicy basil infused chicken.",
+        "item_price": "349"
+    },
+    {
+        "index": "Rice Meals",
+        "item_name": "Creamy Mushroom Stuffed Chicken",
+        "item_description": "Choice of rice served with whole chicken breast stuffed with mushroom & cheddar cheese",
+        "item_price": "497"
+    },
+    {
+        "index": "Rice Meals",
+        "item_name": "Achari Fried Rice",
+        "item_description": "Pickle flavored fried rice served with katsu chickenFlavor Choice: Naga/ Garlic",
+        "item_price": "299"
+    },
+    {
+        "index": "Mocktails",
+        "item_name": "Strawberry Caipirinha",
+        "item_description": "Fresh strawberry muddled with freshly squeezed lime juice, sugar syrup and crushed ice in soda water.",
+        "item_price": "279"
+    },
+    {
+        "index": "Mocktails",
+        "item_name": "Lime Refreshmint",
+        "item_description": "Made with mint, freshly squeezed lime juice, black salt and sugar syrup in soda water.",
+        "item_price": "179"
+    },
+    {
+        "index": "Mocktails",
+        "item_name": "Honey Limade",
+        "item_description": "Wild honey muddled with mint leaves, freshly squeezed lime juice and sugar syrup in soda water.",
+        "item_price": "219"
+    },
+    {
+        "index": "Mocktails",
+        "item_name": "Lemon Iced Tea",
+        "item_description": "A special blend of black tea muddled with freshly squeezed lime juice, sugar syrup and crushed ice.",
+        "item_price": "179"
+    },
+    {
+        "index": "Shakes",
+        "item_name": "Just Milo",
+        "item_description": "Cocoa based malted drink served with added cream, sugar syrup and crushed ice.",
+        "item_price": "299"
+    },
+    {
+        "index": "Shakes",
+        "item_name": "Cake In My Shake",
+        "item_description": "Brownie piece dipped in hazelnut and cocoa flavored drink.",
+        "item_price": "399"
+    },
+    {
+        "index": "Shakes",
+        "item_name": "Nutella Madness",
+        "item_description": "Iconic hazelnut spread mixed with milk, cream and sugar syrup.",
+        "item_price": "349"
+    },
+    {
+        "index": "Shakes",
+        "item_name": "Peanut Butter",
+        "item_description": "Crunchy Peanut butter mixed with milk, cream, chocolate and sugar syrup.",
+        "item_price": "349"
+    },
+    {
+        "index": "Shakes",
+        "item_name": "Cookies n' Cream",
+        "item_description": "Blended chocolate cookies in milk, cream and sugar syrup.",
+        "item_price": "299"
+    },
+    {
+        "index": "Shakes",
+        "item_name": "French Vanilla Latte",
+        "item_description": "Classic chilled latte with a hint of Vanilla.",
+        "item_price": "299"
+    },
+    {
+        "index": "Wholesome Platters",
+        "item_name": "Mango Habanero Grilled Chicken",
+        "item_description": "A glorious platter starring juicy chicken legs marinated with mouth-watering spices, slathered in a homemade spicy mango-habanero sauce, and grilled to perfection, accompanied by two sides.Side Options: MAD Fried Rice, Everything Potato, Garlic Mushroom, and Fries.",
+        "item_price": "649"
+    },
+    {
+        "index": "Wholesome Platters",
+        "item_name": "Creamcheez Stuffed Chicken",
+        "item_description": "Seasoned tender chicken pieces stuffed with creamy, gooey cream cheese & spinach filling that you can dip in the most buttery base of velvety textured mashed potato and mushroom gravy.",
+        "item_price": "699"
+    },
+    {
+        "index": "Wholesome Platters",
+        "item_name": "Mad Monster",
+        "item_description": "Choice of poutine, Half chicken steak & choice of Classic burger.",
+        "item_price": "649"
+    },
+    {
+        "index": "Wholesome Platters",
+        "item_name": "Chicken Steak Meal",
+        "item_description": "Chicken steak coated with a choice of sauce, garlic mushroom & french fries.",
+        "item_price": "419"
+    }
+]
