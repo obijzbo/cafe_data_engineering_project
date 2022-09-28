@@ -24,4 +24,7 @@ uvicorn app_fastApi:app --reload
 ```
 
 ## Discussion
-Data from chillox haven't been scraped. As they only have a photo of the menu. And even though text can be extracted from that image, they don't follow the same order. Under the folder named DATA, you can find the image after applying OCR.
+Data from chillox haven't been scraped. As they only have a photo of the menu. And even though text can be extracted from that image, they don't follow the same order. Under the folder named DATA, you can find the image on which OCR was applied. In scenarios like this, if number of data is big enough, text can be extracted using a ml model in a meaningful way. Or can be extracted using bounding box.
+
+When passing data through the API, there are three parameters - location, menu and price. 
+For the sake of simplicity, it will only work if location matches with the branch name and menu matches with the values of "index". In this portion i was a bit confused on how to handle this to generalize the data. One idea was to group all food index in three categories, namely "MEAL", "DRINKS" and "APPETIZER". But wasn't too sure if that would be a good idea. Therefore it wasn't implemented.
